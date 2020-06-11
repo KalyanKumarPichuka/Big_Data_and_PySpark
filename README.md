@@ -1,2 +1,2 @@
-# Big_Data_and_PySpark
+# Big Data and PySpark
 This is repo my notes on Big Data and PySPark
