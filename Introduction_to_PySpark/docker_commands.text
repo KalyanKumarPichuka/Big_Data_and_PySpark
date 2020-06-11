@@ -1,0 +1,6 @@
+https://levelup.gitconnected.com/using-docker-and-pyspark-134cd4cab867
+
+
+docker run -v '/media/kalyan/New Volume/Digital_Courses/DataCamp_Courses_Content/Big_Data_and_PySpark/Introduction_to_PySpark':/home/jovyan/work/ -it -p 8888:8888 jupyter/pyspark-notebook
+
+docker run -it -p 8888:8888 jupyter/pyspark-notebook
