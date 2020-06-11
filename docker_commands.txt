@@ -1,7 +1,12 @@
+Imortant links
+------------------------
 https://levelup.gitconnected.com/using-docker-and-pyspark-134cd4cab867
 https://realpython.com/pandas-groupby/
+https://www.educative.io/edpresso/the-fatal-refusing-to-merge-unrelated-histories-git-error#:~:text=The%20%E2%80%9Cfatal%3A%20refusing%20to%20merge%20unrelated%20histories%E2%80%9D%20Git%20error,and%20have%20mismatching%20commit%20histories).
 
 
+Docker commands
+-------------------------------
 docker run -v '/media/kalyan/New Volume/Digital_Courses/DataCamp_Courses_Content/Big_Data_and_PySpark/Introduction_to_PySpark':/home/jovyan/work/ -it -p 8888:8888 jupyter/pyspark-notebook
 
 docker run -it -p 8888:8888 jupyter/pyspark-notebook
