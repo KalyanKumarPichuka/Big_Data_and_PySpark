@@ -8,6 +8,6 @@ https://help.github.com/en/github/using-git/changing-a-remotes-url
 
 Docker commands
 -------------------------------
-docker run -v '/media/kalyan/New Volume/Digital_Courses/DataCamp_Courses_Content/Big_Data_and_PySpark':/home/jovyan/work/ -it -p 8888:8888 jupyter/pyspark-notebook
+docker run -v '/media/kalyan/New Volume1/Digital_Courses/DataCamp_Courses_Content/Big_Data_and_PySpark':/home/jovyan/work/ -it -p 8888:8888 jupyter/pyspark-notebook
 
 docker run -it -p 8888:8888 jupyter/pyspark-notebook
